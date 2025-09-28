@@ -16,3 +16,6 @@
 [submodule "LMCache"]
 	path = LMCache
 	url = https://github.com/LMCache/LMCache
+[submodule "FastMTP"]
+	path = FastMTP
+	url = https://github.com/Tencent-BAC/FastMTP
