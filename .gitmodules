@@ -13,3 +13,6 @@
 [submodule "flash-attention"]
 	path = flash-attention
 	url = https://github.com/dao-AILab/flash-attention/
+[submodule "LMCache"]
+	path = LMCache
+	url = https://github.com/LMCache/LMCache
