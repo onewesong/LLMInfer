@@ -1,0 +1,15 @@
+[submodule "sglang"]
+	path = sglang
+	url = https://github.com/sgl-project/sglang
+[submodule "vllm"]
+	path = vllm
+	url = https://github.com/vllm-project/vllm
+[submodule "Mooncake"]
+	path = Mooncake
+	url = https://github.com/kvcache-ai/Mooncake
+[submodule "flashinfer"]
+	path = flashinfer
+	url = https://github.com/flashinfer-ai/flashinfer
+[submodule "flash-attention"]
+	path = flash-attention
+	url = https://github.com/dao-AILab/flash-attention/
